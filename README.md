@@ -362,6 +362,56 @@ FIREBASE_CREDENTIALS=path_to_firebase_service_account.json
 
 ---
 
+## 📚 References
+
+### Problem Statement Data
+1. World Health Organization (WHO) — *Blood Safety and Availability Fact Sheet*.
+   Source for global blood donation volume (118 million+ donations collected annually) and the ~85% voluntary unpaid donor rate used in the problem statement.
+   https://www.who.int/news-room/fact-sheets/detail/blood-safety-and-availability
+
+### Market & Industry Data
+2. Grand View Research — *AI in Healthcare Market Size, Share & Growth Report*.
+   Source for the $187.7B global AI-in-healthcare market projection by 2030 (38.5% CAGR, 2024–2030).
+   https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-healthcare-market
+
+3. Office of the National Coordinator for Health IT (ONC) / American Hospital Association (AHA) — *IT Supplement Survey*, 2023–2024.
+   Source for U.S. hospital predictive-AI adoption figures (66% in 2023, 71% in 2024).
+
+### Existing Systems Referenced (Competitive Landscape)
+4. e-RaktKosh — Government of India's centralized blood bank management system.
+   https://www.eraktkosh.in
+
+5. ABHA (Ayushman Bharat Health Account) — India's national digital health ID framework, referenced as a future integration target.
+   https://abha.abdm.gov.in
+
+### Technology & Frameworks
+6. React — JavaScript library for building user interfaces.
+   https://react.dev
+
+7. FastAPI — Python web framework for building APIs.
+   https://fastapi.tiangolo.com
+
+8. MongoDB / PostgreSQL — database documentation (per current architecture version).
+   https://www.mongodb.com/docs | https://www.postgresql.org/docs
+
+9. scikit-learn — Python machine learning library used for the forecasting prototype.
+   https://scikit-learn.org
+
+10. Google Maps Platform — geolocation, distance calculation, and mapping APIs.
+    https://developers.google.com/maps
+
+11. Firebase Cloud Messaging — real-time push notification service.
+    https://firebase.google.com/docs/cloud-messaging
+
+12. JSON Web Tokens (JWT) — authentication standard.
+    https://jwt.io/introduction
+
+### Security Standards (Design Principles Referenced)
+13. OWASP — Role-Based Access Control and API security best practices referenced in the security design.
+    https://owasp.org
+
+---
+
 ## 👥 Team
 
 | Name | Role |
