@@ -48,19 +48,19 @@ RedPulse AI provides:
 
 ### Logo
 
-![RedPulse Logo](assets/redlogo1.png)
+<img src="assets/redlogo1.png" alt="RedPulse Logo" width="200">
 
 ### Web Interface
 
-![Web Demo](assets/RedPulse_web.png)
+<img src="assets/RedPulse_web.png" alt="Web Demo" width="600">
 
 ### Registration Page
 
-![Registration Page](assets/RedPulse_reg.png)
+<img src="assets/RedPulse_reg.png" alt="Registration Page" width="600">
 
 ### Sign In Page
 
-![Sign In Page](assets/RedPulse_sign.png)
+<img src="assets/RedPulse_sign.png" alt="Sign In Page" width="600">
 
 ---
 
