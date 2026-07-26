@@ -1,5 +1,7 @@
 # 🩸 RedPulse AI
 
+![RedPulse AI Logo](redlogo1.png)
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![React](https://img.shields.io/badge/React-Frontend-blue)
