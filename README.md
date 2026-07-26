@@ -1,7 +1,5 @@
 # 🩸 RedPulse AI
 
-![RedPulse Web Demo](assets/RedPulse_web.png)
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![React](https://img.shields.io/badge/React-Frontend-blue)
@@ -43,6 +41,26 @@ RedPulse AI provides:
 - **Live geographic heatmap** — visualizes blood demand and donor availability
 - **Demand forecasting (prototype)** — flags potential shortages using historical trends
 - **Donation history & eligibility tracking** — for safe, reliable donations
+
+---
+
+## 🎨 Design
+
+### Logo
+
+![RedPulse Logo](assets/redlogo1.png)
+
+### Web Interface
+
+![Web Demo](assets/RedPulse_web.png)
+
+### Registration Page
+
+![Registration Page](assets/RedPulse_reg.png)
+
+### Sign In Page
+
+![Sign In Page](assets/RedPulse_sign.png)
 
 ---
 
